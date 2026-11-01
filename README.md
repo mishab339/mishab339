@@ -53,12 +53,12 @@ Backend Software Engineer specializing in building scalable, production-grade AP
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,jquery" />
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,mongodb,redis,supabase,sequelize" />
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -130,22 +130,12 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 
 ## 💼 Experience
 
-### Backend Software Engineer | Startup
+### Backend Software Engineer | AL TEZZAI LLP
 **2026 – Present**
 - Engineered high-throughput RESTful APIs using Node.js, Express, and NestJS for production environments.
 - Implemented LLM integration interfaces (ChatGPT, Gemini, Claude) to automatically parse raw structured data into system indexing rules.
 - Optimized relational database queries across PostgreSQL/MySQL to minimize query execution times.
 - **Skills:** `Node.js` `NestJS` `Express` `LLM APIs` `MySQL` `Redis`
-
----
-
-### Data Analyst Intern | Bold Analytics Inc.
-**Previous Tenure**
-- Analyzed datasets to extract actionable operational metrics and structural reporting dashboards.
-- Developed quantitative models to evaluate system throughput and operational bottlenecks.
-- **Skills:** `Data Analysis` `SQL` `Python` `Reporting`
-
----
 
 ## 🏆 Achievements
 
@@ -167,6 +157,9 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 
 ### Dubai Government
 - ![Dubai Government](https://img.shields.io/badge/Dubai_Gov-1_Million_Prompters_Certification-000000?style=flat-square&logo=badge&logoColor=white)
+
+### Machine Learning & Data Science
+- ![Machine Learning](https://img.shields.io/badge/Certification-Machine_Learning_with_Python_(V2)-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 

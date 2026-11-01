@@ -177,14 +177,14 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedmishab&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedmishab&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishab339&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishab339&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmishab&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishab339&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -192,7 +192,7 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedmishab&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mishab339&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -200,7 +200,7 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedmishab&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishab339&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -208,7 +208,7 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammedmishab/muhammedmishab/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/mishab339/mishab339/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---

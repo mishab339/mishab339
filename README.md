@@ -24,9 +24,9 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=muhammedmishab&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/muhammedmishab?style=flat-square&color=6d28d9&label=Followers" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/muhammedmishab?style=flat-square&color=4c1d95&label=Stars" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=mishab339&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/mishab339?style=flat-square&color=6d28d9&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/mishab339?style=flat-square&color=4c1d95&label=Stars" alt="Stars" />
   </p>
 </div>
 

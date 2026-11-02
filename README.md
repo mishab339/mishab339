@@ -177,14 +177,16 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishab339&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="49%" />
+  <a href="https://github-stats-extended-neon.vercel.app/api?username=mishab339">
+    <img src="https://github-stats-extended-neon.vercel.app/api?username=mishab339&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="49%" />
+  </a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishab339&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishab339&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended-neon.vercel.app/api/top-langs/?username=mishab339&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -208,7 +210,11 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mishab339/mishab339/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mishab339/mishab339/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mishab339/mishab339/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mishab339/mishab339/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  </picture>
 </div>
 
 ---

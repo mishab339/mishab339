@@ -30,7 +30,7 @@
   </p>
 </div>
 
----
+
 
 ## 👤 About Me
 
@@ -42,7 +42,7 @@ Backend Software Engineer specializing in building scalable, production-grade AP
 - ⚡ **Product Mindset:** Translating real-world business and community challenges into scalable backend software solutions.
 - 🤝 **Open To:** Backend Engineering Roles, Open Source Collaboration, and System Design Projects.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +77,7 @@ Backend Software Engineer specializing in building scalable, production-grade AP
 | **AI Foundations & Infrastructure** | Intermediate | OCI AI Foundations Certified; experience with cloud-hosted inference pipelines and model evaluation. |
 | **Algorithmic Modeling** | Intermediate | Dynamic programming, graph traversal algorithms, and automated rule engines. |
 
----
+
 
 ## 📦 Featured Projects
 
@@ -126,7 +126,7 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 
 </details>
 
----
+
 
 ## 💼 Experience
 
@@ -148,8 +148,6 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 
 </div>
 
----
-
 ## 📜 Certifications
 
 ### Oracle
@@ -161,8 +159,6 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ### Machine Learning & Data Science
 - ![Machine Learning](https://img.shields.io/badge/Certification-Machine_Learning_with_Python_(V2)-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-
 ## 🧩 Coding Profiles
 
 <p align="center">
@@ -171,8 +167,6 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
   <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -209,7 +203,6 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
     height="180"
   />
 </div>
----
 
 ## 🐍 Contribution Snake
 
@@ -220,8 +213,6 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
     <img src="https://raw.githubusercontent.com/mishab339/mishab339/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   </picture>
 </div>
-
----
 
 ## 🎯 Current Focus
 

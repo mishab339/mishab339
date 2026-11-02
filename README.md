@@ -188,15 +188,6 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 <div align="center">
   <img src="https://github-stats-extended-neon.vercel.app/api/top-langs/?username=mishab339&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="60%" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mishab339&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📈 Contribution Activity

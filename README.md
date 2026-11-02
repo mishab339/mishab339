@@ -177,25 +177,38 @@ Integrated Stripe webhook listeners for secure state transitions and structured 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github-stats-extended-neon.vercel.app/api?username=mishab339">
-    <img src="https://github-stats-extended-neon.vercel.app/api?username=mishab339&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="49%" />
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishab339&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github-stats-extended-neon.vercel.app/api?username=mishab339">
+          <img
+            src="https://github-stats-extended-neon.vercel.app/api?username=mishab339&show_icons=true&theme=synthwave&hide_border=true"
+            alt="GitHub Stats"
+            height="180"
+          />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=mishab339&theme=synthwave&hide_border=true"
+          alt="GitHub Streak"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-stats-extended-neon.vercel.app/api/top-langs/?username=mishab339&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="60%" />
+  <img
+    src="https://github-stats-extended-neon.vercel.app/api/top-langs/?username=mishab339&layout=compact&theme=synthwave&hide_border=true"
+    alt="Top Languages"
+    width="60%"
+    height="180"
+  />
 </div>
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishab339&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🐍 Contribution Snake

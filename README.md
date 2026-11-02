@@ -1,15 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Muhammed%20Mishab%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <br />
-
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=320&height=45&lines=Backend+Software+Engineer" alt="Typing SVG" />
     </a>
   </p>
-
-  <br />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Degree-Master%20of%20Computer%20Applications-7C3AED?style=flat-square&logo=academicons&logoColor=white" alt="Degree" />
